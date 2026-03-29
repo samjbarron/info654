@@ -29,6 +29,10 @@
     padding-left: 0;
     text-align: center;}
 
+table {
+    margin: 0 auto;
+}
+
 body {
     background-color: pink;
 }
