@@ -23,9 +23,12 @@ h1, h2, h3, p {
 h2 {
     color: #925c70;}
 
-#centerbody {
-    margin-left: 170px;}
-
+#petlist {
+    margin: auto;
+    text-align: center;
+    background-color: #F4D6DE;
+    border: 5px dotted #D4A5B5;
+    }
 .image-container {
     display: flex;
     justify-content: center;
