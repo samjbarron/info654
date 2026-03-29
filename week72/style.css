@@ -27,19 +27,14 @@
 #petlist ul {
     list-style-position: inside;
     padding-left: 0;
-    text-align: center;
-}
+    text-align: center;}
 
 body {
     background-color: pink;}
 
 h1, h2, h3, p {
     text-align: center;}
-
-h2 {
     color: #925c70;}
-p {
-    color; #3f0819;}
 
 .image-container {
     display: flex;
