@@ -2,8 +2,7 @@
     background-color: #F4D6DE;
     border-radius: 20px;
     border: 10px dotted #D4A5B5;
-    color: #925c70;
-}
+    color: #925c70;}
 
 #menu {
     margin: 10px;
@@ -13,19 +12,18 @@
     border: 1px solid #8FA6A3;
     width: 120px;
     height: 120px;
-    background-color: #E6EFEF;
-}
+    background-color: #E6EFEF;}
 
 body {
-    background-color: pink;
-}
+    background-color: pink;}
 
 h1, h2, h3, p {
-    text-align: center;
-}
+    text-align: center;}
+
+h2 {
+    color: #925c70;}
 
 .image-container {
     display: flex;
     justify-content: center;
-    margin-top: 20px;
-}
+    margin-top: 20px;}
