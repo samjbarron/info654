@@ -23,8 +23,8 @@ h1, h2, h3, p {
 h2 {
     color: #925c70;}
 
-ol {
-    text-align: center;}
+#centerbody {
+    margin-left: 170px;}
 
 .image-container {
     display: flex;
