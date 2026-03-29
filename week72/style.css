@@ -23,6 +23,9 @@ h1, h2, h3, p {
 h2 {
     color: #925c70;}
 
+ol {
+    text-align: center;}
+
 .image-container {
     display: flex;
     justify-content: center;
