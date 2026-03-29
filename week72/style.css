@@ -15,7 +15,7 @@
     background-color: #E6EFEF;}
 
 #petlist {
-  width: 500px; 
+  width: 300px; 
     margin: 0 auto;
     text-align: center;
     background-color: #F4D6DE;
@@ -39,7 +39,7 @@ h1, h2, h3, p {
 h2 {
     color: #925c70;}
 p {
-    color; #3f0819}
+    color; #3f0819;}
 
 .image-container {
     display: flex;
