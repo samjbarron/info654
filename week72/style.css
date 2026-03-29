@@ -15,11 +15,13 @@
     background-color: #E6EFEF;}
 
 #petlist {
-    margin: auto;
+  width: 500px; 
+    margin: 0 auto;
     text-align: center;
     background-color: #F4D6DE;
     border: 1px solid #D4A5B5;
-    width: 600px; }
+    padding: 10px
+   }
 
 #petlist ol,
 #petlist ul {
@@ -36,6 +38,8 @@ h1, h2, h3, p {
 
 h2 {
     color: #925c70;}
+p {
+    color; #3f0819}
 
 .image-container {
     display: flex;
