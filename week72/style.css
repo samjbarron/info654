@@ -44,7 +44,8 @@ h1, h2, h3, p {
 }
 
 .image-container {
-     text-align: center;
-    clear: left;
+      display: flex;
+    justify-content: center;
     margin-top: 20px;
+    clear: left;
 }
